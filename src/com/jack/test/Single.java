@@ -1,6 +1,6 @@
 package com.jack.test;
 
-//懒汉式单例
+//懒汉式单例123
 public class Single {
 	private static Single single;
 
