@@ -2,6 +2,6 @@ package com.jack.test;
 
 public class Demo2 {
 	public static void main(String[] args) {
-		System.out.println("2018ÄêÆßÏ¦£¬µ¥Éí½Ú¿ìÀÖ");
+		System.out.println("2018å¹´ä¸ƒå¤•æƒ…äººèŠ‚ï¼Œæˆ‘ä¸€ä¸ªäººè¿‡ã€‚");
 	}
 }

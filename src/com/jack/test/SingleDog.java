@@ -1,11 +1,11 @@
 package com.jack.test;
 
-//¶öººÊ½µ¥Àı£¬
+//é¥¿æ±‰å¼å•ä¾‹
 public class SingleDog {
 	private static SingleDog dog = new SingleDog();
 
 	public SingleDog() {
-		System.out.println("2018ÄêÆßÏ¦£¬µ¥Éí½Ú¿ìÀÖ¡£");
+		System.out.println("2018å¹´ä¸ƒå¤•æƒ…äººèŠ‚");
 	}
 
 	public static SingleDog get() {
